@@ -1,0 +1,4 @@
+[Project]
+Name=mfir
+Manager=KDevCustomMakeManager
+VersionControl=kdevgit
